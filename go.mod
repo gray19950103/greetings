@@ -1,3 +1,3 @@
-module yzr.ink/greetings
+module page.yzr.ink/greetings
 
 go 1.17
